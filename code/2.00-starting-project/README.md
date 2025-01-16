@@ -24,4 +24,3 @@
 - Dependencia : spring-boot-starter-test
   - Tiene una dependencia transitiva hacia JUnit 5. (La tenemos disponible en el project sin importarla)
   - mvn dependency:tree
-  
