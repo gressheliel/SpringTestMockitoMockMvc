@@ -115,5 +115,4 @@ public class MockitoBeanAutowiredAnnotationTest {
 
         verify(applicationDao, times(2)).checkNull(nullStudent);
     }
-
 }
